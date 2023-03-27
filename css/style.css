@@ -84,6 +84,7 @@ footer {
     font-size: 36px;
     line-height: 49px;
     display: block;
+    color: #3E3F43;
 }
 .Short span {
     position: relative;
@@ -95,7 +96,7 @@ footer {
 }
 .Short p {
     position: relative;
-    width: 448px;
+    width: 465px;
     height: 66px;
     left: 506px;
     top: 197px;
