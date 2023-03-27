@@ -3,15 +3,7 @@
     padding: 0;
 }
 
-main {
-    width: 100%;
-}
-
-header {
-    width: 100%;
-}
-
-footer {
+main,header,footer {
     width: 100%;
 }
 
@@ -417,28 +409,23 @@ footer {
     left: 40px;
     top: 73px;
 }
-
 .linkedin {
     position: relative;
     left: 40px;
     top: 89px;
 }
-
 .Git {
     position: relative;
     left: 40px;
     top: 105px;
     
 }
-
-
 footer h6 {
     position: relative;
     left: 40px;
     top: 175px;
     font-family: 'Nunito', sans-serif;
 }
-
 .Facebook a:hover,
 .linkedin a:hover,
 .Git a:hover{
